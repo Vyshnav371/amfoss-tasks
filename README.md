@@ -15,5 +15,5 @@
 | Task-11 | Poster Design |  |
 | Task-12 | Make the Block |  |
 | Task-13 | Circuit Design |  |
-| Task-14 | Bandit |  |
+| Task-14 | Bandit | Completed |
 | Task-15| Project Euler |  |
