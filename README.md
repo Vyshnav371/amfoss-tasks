@@ -9,7 +9,7 @@
 | Task-05  | Let me C |  |
 | Task-06  | Flutter based UI task |  |
 | Task-07 | Rich Scraper | Almost done |
-| Task-08 | JSExplorer |  |
+| Task-08 | JSExplorer | Completed |
 | Task-09 | Setup a Simple Personal Website | Completed |
 | Task-10 | CS50 | Completed |
 | Task-11 | Poster Design |  |
