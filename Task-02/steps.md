@@ -56,3 +56,11 @@ cp East/EastCoordinate.txt Coordinates-Location
 mv Coordinates-Location East.txt
 
 cat  North.txt East.txt > Location-Coordinate.txt
+
+##git
+gi init
+git add
+git commit -m "NEW Commit"
+
+git remote origin
+git
