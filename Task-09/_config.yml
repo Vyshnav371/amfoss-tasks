@@ -1,0 +1,61 @@
+layout: sidebar
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  instagram: vyshnav0371
+  # keybase: your_username
+  # linkedin: your_username
+  # mastodon: your_username
+  # medium: your_username
+  # stackoverflow: your_user_id
+  # telegram: your_username
+  # twitter: your_username
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
+  # youtube: your_username
+
+topics:
+  - name: Flutter
+    web_url: https://github.com/flutter/flutter
+    image_url: https://user-images.githubusercontent.com/92287455/141824641-807c424d-6b52-4842-a79a-b944713e3c93.png
+
+  - name: Hackathons
+    web_url: https://en.wikipedia.org/wiki/Hackathon
+    image_url: https://user-images.githubusercontent.com/92287455/141825540-c2e3d3fe-6291-4843-a645-7d4ab397cd45.jpg
+    
+
+  - name: AI
+    web_url: https://en.wikipedia.org/wiki/Artificial_intelligence
+    image_url: https://user-images.githubusercontent.com/92287455/141825839-79fa2f67-5e11-4623-9dae-2079df7fa2f2.jpg
