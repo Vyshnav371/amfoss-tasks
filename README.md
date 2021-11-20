@@ -4,7 +4,7 @@
 | Task-00 | Installing Ubuntu | Completed |
 | Task-01 | 	Staring amFOSS repositories | Completed |
 | Task-02| Begin your journey with Linux and Git | Completed  |
-| Task-03 | Programming  | 5 Questions |
+| Task-03 | Programming  | 6 Questions |
 | Task-04 |  Aerglo Mars |  |
 | Task-05  | Let me C |  |
 | Task-06  | Flutter based UI task | Completed |
