@@ -16,4 +16,4 @@
 | Task-12 | Make the Block |  |
 | Task-13 | Circuit Design |  |
 | Task-14 | Bandit | Completed |
-| Task-15| Project Euler | 1 Question |
+| Task-15| Project Euler | 2 Question |
