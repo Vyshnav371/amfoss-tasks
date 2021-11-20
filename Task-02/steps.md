@@ -57,10 +57,11 @@ mv Coordinates-Location East.txt
 
 cat  North.txt East.txt > Location-Coordinate.txt
 
-##git
-gi init
-git add
-git commit -m "NEW Commit"
+## Git Commands
+git init
+git add Task-02
+git add Task-02/*
+git commit -m "New commit"
+git remote add origin repositorylink
+git push -u origin master
 
-git remote origin
-git
